@@ -67,6 +67,7 @@ module.exports = {
     'react/react-in-jsx-scope': 0,
     'react/prefer-stateless-function': 0,
     'react/forbid-prop-types': 0,
+    'react/prop-types': ['off'],
     'react/no-unescaped-entities': 0,
     'jsx-a11y/accessible-emoji': 0,
     'jsx-a11y/label-has-associated-control': [
